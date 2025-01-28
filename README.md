@@ -1,12 +1,28 @@
-this is Minsweeper code in C which has a lot of feature in CMD in windows:
-1. has developer mode
-2. coloring texts
-3. type writring effect for prompting to user
-4. profile covering
-5. playing sounds for winner or loser (need discription)
-6. high readability
-7. modular coding
-8. cheat map for developer
-9. etc.
-if you want to play sounds, tou have to open your CMake text file and add "target_link_libraries (TARGET_NAME winmm)" to file. be careful that I put my own sound system path. remember to change it.
-made with love in IRAN
+# The Mine Sweeper 💣
+- Explore throw these cell to find and flag the mines!
+- Actually was my BP mini project 
+## ⏬ Description
+#### - My first C app which looks to linux bash as commanding. Has no basic things of a game. OLD but GOLD!
+
+## 💢 Features
+1. Developer and Cheat mode
+2. Colorized text
+3. Type writing effect
+4. account consideration
+5. playing sound
+
+>[!IMPORTANT]
+> To run this in CLion, please open your CMake text file and add "target_link_libraries (TARGET_NAME winmm)" to file
+
+>[!TIP]
+> Watch [this](https://www.aparat.com/v/u352aem) to learn how to put sound in CLion!
+
+## 🤝 Contribution
+- #### I welcome contributions! To contribute:
+    - #### Fork the repository.
+    - #### Create a new branch for your feature/bug fix:
+      > git checkout -b feature-name
+    - #### Commit your changes:
+      > git commit -m "Add feature-name"
+    - #### Push to your fork and create a pull request.
+
